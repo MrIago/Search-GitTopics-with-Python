@@ -60,3 +60,7 @@ def mostra_topico(topico):
 topic = input("Topico: ").lower()
 
 mostra_topico(topic)
+
+import os
+
+os.system('pause')
